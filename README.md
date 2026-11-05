@@ -1,6 +1,8 @@
 # Shelly Hub
 
 Dashboard für alle Shelly-Geräte im lokalen Netz – im Stil des iPhone-Sperrbildschirms.
+<img width="800" height="538" alt="image" src="https://github.com/user-attachments/assets/5398437a-b651-4223-bd5c-af70d4847b0d" />
+
 
 - Findet alle Shellys automatisch (Gen1, Gen2/Plus/Pro, Gen3, Gen4) per Netzwerk-Scan
 - Zeigt Name, IP, Modell, Firmware, verfügbare Updates, WLAN-Signal, Leistung, Temperatur
